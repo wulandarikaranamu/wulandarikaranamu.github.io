@@ -10,3 +10,8 @@
 section {
   padding-top: 5rem;
 }
+
+.left {
+  text-align: left;
+  margin-left: 50px;
+}
